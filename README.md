@@ -1,4 +1,4 @@
-# Tedd.Fodselsnummer
+# Tedd.FilesystemSearch
 Search filesystem for directory names, file names or file content matching certain criteria.
 
 # Example
